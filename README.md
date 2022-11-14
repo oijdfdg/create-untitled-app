@@ -40,7 +40,3 @@ Can't think of a name right now.
 # Inspried by
 
 create-react-app, create-t3-app and other templates
-
-```
-
-```
