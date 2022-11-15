@@ -5,7 +5,7 @@ export const promptName: () => Promise<string> = async () => {
     {
       name: "name",
       type: "input",
-      message: "How will you call your project? (default: my-app)",
+      message: "What will you call your project? (default: 'my-app')",
     },
   ]);
 
