@@ -14,12 +14,7 @@ or
 npm create untitled-app@latest
 ```
 
-If not specified, the project is named "my-app".
-You can specify a name in this way:
-
-```
-npm create untitled-app@latest hello
-```
+If no name is specified, you'll be asked for one after running the command.
 
 # Purpose
 

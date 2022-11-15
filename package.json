@@ -1,6 +1,6 @@
 {
   "name": "create-untitled-app",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "type": "module",
   "description": "",
   "main": "./dist/index.js",
