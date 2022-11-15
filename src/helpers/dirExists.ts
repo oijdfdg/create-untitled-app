@@ -1,5 +1,3 @@
 import { existsSync } from "fs";
 
-export const dirExists = (dir: string): boolean => {
-  return existsSync(dir);
-};
+export const dirExists = (dir: string): boolean => existsSync(dir);

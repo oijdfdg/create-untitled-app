@@ -8,6 +8,7 @@ import type { PackageJson } from "type-fest";
 import fs from "fs-extra";
 import path from "path";
 import { getVersion } from "./helpers/getVersion";
+import { promptName } from "./prompts";
 
 interface ProjectOptions {
   name: string;
@@ -31,8 +32,8 @@ export const runCli = async () => {
 };
 
 const action = async (projectName: string | undefined, options: any) => {
-  // Set the name to "my-app" if none provided
-  projectName = projectName ?? "my-app";
+  // Ask for the project name if not supplied.
+  projectName = projectName ?? (await promptName());
 
   const directory = cwd();
   const templateDir = path.join(PKG_ROOT, "template");

@@ -8,5 +8,5 @@ export default defineConfig({
   sourcemap: true,
   target: "es2020",
   outDir: "./dist",
-  onSuccess: isDev ? "node ./dist/index.js test" : undefined,
+  onSuccess: isDev ? "node ./dist/index.js" : undefined,
 });
