@@ -1,6 +1,6 @@
 {
   "name": "create-untitled-app",
-  "version": "1.1.4",
+  "version": "1.1.7",
   "type": "module",
   "description": "",
   "main": "./dist/index.js",
@@ -14,7 +14,6 @@
   "keywords": [
     "typescript",
     "postcss",
-    "scss",
     "tailwindcss",
     "sveltekit"
   ],
