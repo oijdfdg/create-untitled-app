@@ -26,7 +26,6 @@ The template's purpose is to deliver a typesafe, modern and feature-rich SvelteK
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [PostCSS](https://postcss.org/)
-- [SCSS](https://sass-lang.com/)
 
 # Why is it untitled?
 
