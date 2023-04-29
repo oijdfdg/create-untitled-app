@@ -18,7 +18,7 @@ If no name is specified, you'll be asked for one after running the command.
 
 # Purpose
 
-The template's purpose is to deliver a typesafe, modern and feature-rich SvelteKit experience.
+The template's purpose is to deliver a (cue the buzz-words) typesafe, modern and feature-rich SvelteKit experience.
 
 # Includes
 
@@ -26,6 +26,8 @@ The template's purpose is to deliver a typesafe, modern and feature-rich SvelteK
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [PostCSS](https://postcss.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 # Why is it untitled?
 

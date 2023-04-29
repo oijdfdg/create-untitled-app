@@ -1,5 +1,1 @@
-<script lang="ts">
-    import "../app.postcss";
-</script>
-
-<slot />
+<script>import "../app.postcss";</script><slot></slot>
