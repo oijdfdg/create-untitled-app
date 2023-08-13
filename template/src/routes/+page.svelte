@@ -1,2 +1,2 @@
 <h1>Welcome to create-untitled-app!</h1>
-<p>Get started by editing <code>routes/+page.svelte</code></p>
+<p>Edit <code>routes/+page.svelte</code> to get started.</p>
