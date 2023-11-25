@@ -24,8 +24,9 @@ The template's purpose is to deliver a (cue the buzz-words) typesafe, modern and
 
 - [SvelteKit](https://kit.svelte.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [PostCSS](https://postcss.org/)
+- [PostCSS](https://postcss.org/)  
+    - [Tailwind CSS](https://tailwindcss.com/)  
+        - (I use [svelte-add](https://github.com/svelte-add)'s [tailwindcss](https://github.com/svelte-add/tailwindcss) to add them both, props to them, speeds up the process!)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
